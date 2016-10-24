@@ -14,7 +14,7 @@ namespace Testing
     {
         int l;
         int o;
-        int p;
+        int w;
         int a;
         int b;
         int r;
