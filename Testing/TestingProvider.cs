@@ -12,8 +12,8 @@ namespace Testing
     
     class TestingProvider
     {
-        int ghj;
-        int p;
+        int hh;
+        int jj;
         int k;
         int a;
         int b;
